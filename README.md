@@ -1,7 +1,7 @@
 # Tugas6_H1D021028_DIYA-AULIA_SHIFT_F
 ![WhatsApp Image 2024-10-31 at 22 18 01 (1)](https://github.com/user-attachments/assets/a5bedfc6-1a6d-4fdb-b20b-566c5d5fb12e)
 Membuat Proyek Ionic
-Jika Anda belum memiliki proyek Ionic, buatlah proyek baru dengan menjalankan perintah berikut di terminal:
+1. Jika Anda belum memiliki proyek Ionic, buatlah proyek baru dengan menjalankan perintah berikut di terminal:
 ionic start nama-proyek blank
 cd nama-proyek
 2. Membuat Halaman Baru
@@ -12,8 +12,6 @@ Ini akan membuat folder baru di dalam direktori src/app yang berisi file-file ya
 Ionic memiliki banyak komponen UI yang siap digunakan. Untuk menambahkannya ke halaman Anda, ikuti langkah berikut:
 Buka File HTML Halaman: Buka file HTML dari halaman yang ingin Anda tambahkan komponen, misalnya nama-halaman.page.html.
 Tambahkan Komponen: Tambahkan tag komponen yang ingin Anda gunakan. Misalnya, jika Anda ingin menambahkan tombol dan kartu, Anda dapat menulis:
-html
-Salin kode
 <ion-header>
   <ion-toolbar>
     <ion-title>Judul Halaman</ion-title>
