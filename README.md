@@ -1,4 +1,6 @@
 # Tugas6_H1D021028_DIYA-AULIA_SHIFT_F
+LINK/FOLDER PROJECT TERDAPAT PADA GDRIVE DIBAWAH INI
+https://drive.google.com/file/d/1Q4xU6E47I1r590DNT634w4DEjEUhuU57/view?usp=drive_link
 ![WhatsApp Image 2024-10-31 at 22 18 01 (1)](https://github.com/user-attachments/assets/a5bedfc6-1a6d-4fdb-b20b-566c5d5fb12e)
 Membuat Proyek Ionic
 1. Jika Anda belum memiliki proyek Ionic, buatlah proyek baru dengan menjalankan perintah berikut di terminal:
